@@ -1,5 +1,5 @@
 # README
-hello world!
+hello world! 
 Bui First Ruby application
 subcription based web application
 Things you may want to cover:
